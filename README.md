@@ -20,3 +20,8 @@ and enter them into your `.env` file. Get started by copying the example provide
 ## Translations
 
 Checkout the guide to [adding translations](TRANSLATING.md).
+
+
+## TODO
+
+Include code that uses colors complementary to background image on text that appears on the image (like the samsung's lock screen)  
